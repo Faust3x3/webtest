@@ -4,6 +4,7 @@ import org.junit.jupiter.api.Test;
 import static com.codeborne.selenide.Condition.*;
 import static com.codeborne.selenide.Selectors.*;
 import static com.codeborne.selenide.Selenide.*;
+import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class WebTest {
 
